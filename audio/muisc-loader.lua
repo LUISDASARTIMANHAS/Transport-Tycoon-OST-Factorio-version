@@ -1,6 +1,6 @@
-local path_main = "__MOD__/audio/"
--- local ambientMusic = mod_ambient_music_config.value
--- local menuMusic = mod_menu_music_config.value
+local path_main = "__Transport-Tycoon-OST__/audio/"
+local ambientMusic = TransportTycoonOST_ambient_music_config.value
+local menuMusic = TransportTycoonOST_menu_music_config.value
 
 data:extend({
     {
@@ -18,7 +18,7 @@ data:extend({
 data:extend({
     {
         type = "ambient-sound",
-        name = "tttheme2",
+        name = "music_name",
         track_type = "menu-track",
         sound =
         {

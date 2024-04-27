@@ -1,16 +1,16 @@
 data:extend({
     {
         type = "bool-setting",
-        name = "mute",
+        name = "TransportTycoonOST_ambient_music_config",
         setting_type = "startup",
-        localised_name = "mute",
-        default_value = false
+        localised_name = "enable ambient music",
+        default_value = true
     },
     {
         type = "bool-setting",
-        name = "legacy_resources",
+        name = "TransportTycoonOST_menu_music_config",
         setting_type = "startup",
-        localised_name = "legacy-resources",
-        default_value = false
+        localised_name = "enable menu music",
+        default_value = true
     },
 })
