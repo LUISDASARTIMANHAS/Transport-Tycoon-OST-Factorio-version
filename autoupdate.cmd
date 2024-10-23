@@ -69,7 +69,7 @@ if not exist "%ZIP_FILE%" (
 :: Inicializa o repositório Git (se necessário)
 if not exist ".git" (
     git init
-    git remote add origin https://github.com/LUISDASARTIMANHAS/OpenTTD-OST-Factorio-version.git
+    git remote add origin https://github.com/LUISDASARTIMANHAS/Transport-Tycoon-OST-Factorio-version.git
 )
 
 :: Verifica o status dos arquivos
