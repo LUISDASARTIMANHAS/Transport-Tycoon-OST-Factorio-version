@@ -1,12 +1,12 @@
 {
     "name": "Transport-Tycoon-OST",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "title": "Transport Tycoon OST",
     "author": "LUIS DAS ARTIMANHAS",
     "contact": "luisaugustodesouza785@gmail.com",
     "homepage": "https://github.com/LUISDASARTIMANHAS/Transport-Tycoon-OST-Factorio-version/",
     "description": "Bring in music from Transport tycoon // Traz músicas do Transport tycoon. Transport Tycoon © 1994, 2013 31X Ltd. Created by Chris Sawyer. Transport Tycoon ® 31X Ltd. All rights reserved.",
-    "factorio_version": "1.1",
+    "factorio_version": "2.0",
     "dependencies": [
         "base",
         "flib",
